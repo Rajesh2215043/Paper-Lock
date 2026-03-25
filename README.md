@@ -104,6 +104,3 @@ Generated file:
 - Optional encrypted file-at-rest layer
 - Multi-language support
 
-## License
-
-Add your preferred license (for example, MIT) in a `LICENSE` file.
